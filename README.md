@@ -3,7 +3,9 @@
 I'm Ankit Wagh, a B.E. Computer Science student at PUNE INSTITUTE OF COMPUTER TECHNOLOGY. I'm passionate about Competitive Programming and Problem Solving.
 Do checkout my Coding Profiles.
 
-
+<br/>
+<br/>
+<br/>
 
 About Me-
 
@@ -15,6 +17,8 @@ About Me-
 
 💼 LinkedIn - https://www.linkedin.com/in/ankit-wagh-13a470223/
 
+<br/>
+<br/>
 <br/>
 
 
@@ -29,12 +33,15 @@ My role include framing questions, designing algorithm, test case generation
 
 and providing proper explanation for the framed question
 
+<br/>
 
 
 📍 Intern at Cloudanix (Mar 2024 - Currently, Remote)
 
 
-
+<br/>
+<br/>
+<br/>
 
 Languages: C++, Python ,JavaScript, SQL
 
@@ -44,7 +51,9 @@ Version Control: Git, GitHub
 
 Database: MySQL
 
-
+<br/>
+<br/>
+<br/>
 
 Programming Profiles-
 
