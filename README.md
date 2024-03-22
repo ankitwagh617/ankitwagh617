@@ -32,10 +32,14 @@ Version Control: Git, GitHub
 
 Database: MySQL
 
+
 Programming Profiles-
 
 Codeforces - https://codeforces.com/profile/akt617
+
 Leetcode - https://leetcode.com/akt617/
+
 Codechef - https://www.codechef.com/users/akt617
+
 GFG - https://auth.geeksforgeeks.org/user/akt617/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
 
