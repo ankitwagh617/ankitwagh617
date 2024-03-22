@@ -5,7 +5,7 @@ Do checkout my Coding Profiles.
 
 
 
-📍 About Me-
+About Me-
 
 📚 Currently pursuing B.E - CSE with CGPA of 9.30.
 
