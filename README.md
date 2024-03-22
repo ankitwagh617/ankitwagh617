@@ -5,7 +5,6 @@ Do checkout my Coding Profiles.
 
 <br/>
 <br/>
-<br/>
 
 About Me-
 
@@ -41,7 +40,6 @@ and providing proper explanation for the framed question
 
 <br/>
 <br/>
-<br/>
 
 Languages: C++, Python ,JavaScript, SQL
 
@@ -53,7 +51,7 @@ Database: MySQL
 
 <br/>
 <br/>
-<br/>
+
 
 Programming Profiles-
 
