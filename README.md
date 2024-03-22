@@ -16,7 +16,7 @@ Do checkout my Coding Profiles.
 💼 LinkedIn - https://www.linkedin.com/in/ankit-wagh-13a470223/
 
 
-📍 Work Experience-
+Work Experience-
 
 
 📍 Intern at Imocha (Jan 2023 - Jun 2023, Remote)
