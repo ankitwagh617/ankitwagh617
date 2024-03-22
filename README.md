@@ -4,7 +4,7 @@ Do checkout my Coding Profiles.
 
 
 
-About Me-
+📍 About Me-
 
 📚 Currently pursuing B.E - CSE with CGPA of 9.30.
 
@@ -15,10 +15,10 @@ About Me-
 💼 LinkedIn - https://www.linkedin.com/in/ankit-wagh-13a470223/
 
 
-Work Experience-
+📍 Work Experience-
 
 
-Intern at Imocha (Jan 2023 - Jun 2023, Remote)
+📍 Intern at Imocha (Jan 2023 - Jun 2023, Remote)
 
 Proble Setter Intern
 
@@ -28,7 +28,7 @@ and providing proper explanation for the framed question
 
 
 
-Intern at Cloudanix (Mar 2024 - Currently, Remote)
+📍 Intern at Cloudanix (Mar 2024 - Currently, Remote)
 
 
 
@@ -45,11 +45,11 @@ Database: MySQL
 
 Programming Profiles-
 
-Codeforces - https://codeforces.com/profile/akt617
+📍 Codeforces - https://codeforces.com/profile/akt617
 
-Leetcode - https://leetcode.com/akt617/
+📍 Leetcode - https://leetcode.com/akt617/
 
-Codechef - https://www.codechef.com/users/akt617
+📍 Codechef - https://www.codechef.com/users/akt617
 
-GFG - https://auth.geeksforgeeks.org/user/akt617/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
+📍 GFG - https://auth.geeksforgeeks.org/user/akt617/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
 
