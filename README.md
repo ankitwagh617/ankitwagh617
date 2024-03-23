@@ -33,7 +33,6 @@ and providing proper explanation for the framed question
 
 <br/>
 
-
 ## 💼 Intern at Cloudanix (Mar 2024 - Currently, Remote)
 
 ### Software Engineer Intern
