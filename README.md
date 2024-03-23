@@ -25,7 +25,7 @@ Do checkout my Coding Profiles.
 
 ### Intern at Imocha (Jan 2023 - Jun 2023, Remote)
 
-Proble Setter Intern
+Problem Setter Intern
 
 My role include framing questions, designing algorithm, test case generation 
 
