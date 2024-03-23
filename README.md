@@ -18,13 +18,12 @@ Do checkout my Coding Profiles.
 
 <br/>
 <br/>
-<br/>
 
 
 ## Work Experience-
 
 
-📍 Intern at Imocha (Jan 2023 - Jun 2023, Remote)
+### Intern at Imocha (Jan 2023 - Jun 2023, Remote)
 
 Proble Setter Intern
 
@@ -35,7 +34,7 @@ and providing proper explanation for the framed question
 <br/>
 
 
-📍 Intern at Cloudanix (Mar 2024 - Currently, Remote)
+### Intern at Cloudanix (Mar 2024 - Currently, Remote)
 
 
 <br/>
