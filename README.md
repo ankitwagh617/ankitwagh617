@@ -20,7 +20,7 @@
 <br/>
 
 
-# Work Experience-
+# Work Experiences-
 
 
 ## 💼 Intern at Imocha (Jan 2023 - Jun 2023, Remote)
