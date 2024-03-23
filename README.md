@@ -6,7 +6,7 @@ Do checkout my Coding Profiles.
 <br/>
 <br/>
 
-## About Me-
+# About Me-
 
 📚 Currently pursuing B.E - CSE with CGPA of 9.30.
 
@@ -20,10 +20,10 @@ Do checkout my Coding Profiles.
 <br/>
 
 
-## Work Experience-
+# Work Experience-
 
 
-### Intern at Imocha (Jan 2023 - Jun 2023, Remote)
+## Intern at Imocha (Jan 2023 - Jun 2023, Remote)
 
 Problem Setter Intern
 
@@ -34,7 +34,7 @@ and providing proper explanation for the framed question
 <br/>
 
 
-### Intern at Cloudanix (Mar 2024 - Currently, Remote)
+## Intern at Cloudanix (Mar 2024 - Currently, Remote)
 
 
 <br/>
@@ -52,7 +52,7 @@ Database: MySQL
 <br/>
 
 
-## Programming Profiles-
+# Programming Profiles-
 
 📍 Codeforces - https://codeforces.com/profile/akt617
 
