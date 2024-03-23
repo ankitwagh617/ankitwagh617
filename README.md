@@ -41,18 +41,6 @@ and providing proper explanation for the framed question
 <br/>
 <br/>
 
-Languages: C++, Python ,JavaScript, SQL
-
-Web Development: React.js, HTML, CSS, Django ,Flask
-
-Version Control: Git, GitHub
-
-Database: MySQL
-
-<br/>
-<br/>
-
-
 # Programming Profiles-
 
 📍 Codeforces - https://codeforces.com/profile/akt617
@@ -62,4 +50,16 @@ Database: MySQL
 📍 Codechef - https://www.codechef.com/users/akt617
 
 📍 GFG - https://auth.geeksforgeeks.org/user/akt617/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
+
+<br/>
+<br/>
+
+Languages: C++, Python ,JavaScript, SQL
+
+Web Development: React.js, HTML, CSS, Django ,Flask
+
+Version Control: Git, GitHub
+
+Database: MySQL
+
 
