@@ -23,7 +23,7 @@ Do checkout my Coding Profiles.
 # Work Experience-
 
 
-## Intern at Imocha (Jan 2023 - Jun 2023, Remote)
+## 💼 Intern at Imocha (Jan 2023 - Jun 2023, Remote)
 
 ### Problem Setter Intern
 
@@ -34,7 +34,7 @@ and providing proper explanation for the framed question
 <br/>
 
 
-## Intern at Cloudanix (Mar 2024 - Currently, Remote)
+## 💼 Intern at Cloudanix (Mar 2024 - Currently, Remote)
 
 ### Software Engineer Intern
 
