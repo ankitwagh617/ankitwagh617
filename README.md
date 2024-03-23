@@ -1,12 +1,12 @@
-# Heading1
-**Hi there! 👋**
+
+# **Hi there! 👋**
 
 I'm Ankit Wagh, a B.E. Computer Science student at PUNE INSTITUTE OF COMPUTER TECHNOLOGY. I'm passionate about Competitive Programming and Problem Solving.
 Do checkout my Coding Profiles.
 <br/>
 <br/>
 
-About Me-
+## About Me-
 
 📚 Currently pursuing B.E - CSE with CGPA of 9.30.
 
@@ -21,7 +21,7 @@ About Me-
 <br/>
 
 
-Work Experience-
+## Work Experience-
 
 
 📍 Intern at Imocha (Jan 2023 - Jun 2023, Remote)
@@ -53,7 +53,7 @@ Database: MySQL
 <br/>
 
 
-Programming Profiles-
+## Programming Profiles-
 
 📍 Codeforces - https://codeforces.com/profile/akt617
 
