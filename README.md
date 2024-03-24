@@ -17,7 +17,6 @@
 💼 LinkedIn - https://www.linkedin.com/in/ankit-wagh-13a470223/
 
 <br/>
-<br/>
 
 
 # Work Experiences-
@@ -31,14 +30,13 @@ My role include framing questions, designing algorithm, test case generation
 
 and providing proper explanation for the framed question
 
-<br/>
 
 ## 💼 Intern at Cloudanix (Mar 2024 - Currently, Remote)
 
 ### Software Engineer Intern
 
 <br/>
-<br/>
+
 
 # Programming Profiles-
 
@@ -51,7 +49,7 @@ and providing proper explanation for the framed question
 📍 GFG - https://auth.geeksforgeeks.org/user/akt617/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
 
 <br/>
-<br/>
+
 
 Languages: C++, Python ,JavaScript, SQL
 
