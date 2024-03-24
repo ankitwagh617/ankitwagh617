@@ -3,7 +3,7 @@
 
 ### I'm Ankit Wagh, a B.E. Computer Engineering student at PUNE INSTITUTE OF COMPUTER TECHNOLOGY. I'm passionate about Competitive Programming and Problem Solving.
 ### Do checkout my Coding Profiles.
-<br/>
+
 <br/>
 
 # About Me-
