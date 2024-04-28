@@ -53,7 +53,7 @@ and providing proper explanation for the framed question
 
 Languages: C++, Python ,JavaScript, SQL
 
-Web Development: React.js, HTML, CSS, Django ,Flask
+Web Development: React.js, HTML, CSS, Django 
 
 Version Control: Git, GitHub
 
