@@ -8,7 +8,7 @@
 
 # About Me-
 
-📚 Currently pursuing B.E - Computer Engineering with CGPA of 9.30.
+📚 Currently pursuing B.E - Computer Engineering with CGPA of 9.36.
 
 📧 You can reach me at: ankitwagh617@gmail.com.
 
