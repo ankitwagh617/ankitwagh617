@@ -31,7 +31,7 @@ My role include framing questions, designing algorithm, test case generation
 and providing proper explanation for the framed question
 
 
-## 💼 Intern at Cloudanix (Feb 2024 - Currently, Remote)
+## 💼 Intern at Cloudanix (Feb 2024 - July 2024, Remote)
 
 ### Software Engineer Intern
 
