@@ -51,12 +51,12 @@ and providing proper explanation for the framed question
 <br/>
 
 
-Languages: C++, Python ,JavaScript, SQL
+Languages: C++, Python, Java ,JavaScript, SQL
 
-Web Development: React.js, HTML, CSS, Django 
+Web Development: React.js, HTML, CSS, Django, Spring Boot, JPA Hibernate, Spring REST
 
 Version Control: Git, GitHub
 
-Database: MySQL
+Database: MySQL, H2 ,MongoDB ,Postgresql
 
 
