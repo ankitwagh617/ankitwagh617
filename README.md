@@ -35,6 +35,10 @@ and providing proper explanation for the framed question
 
 ### Software Engineer Intern
 
+## 💼 Engineer at Tata Consultancy Services Ltd (Nov 2024 - Currently, OnSite)
+
+### Working in BFSI domain in Citi Bank Project
+
 <br/>
 
 
