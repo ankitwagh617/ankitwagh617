@@ -8,7 +8,7 @@
 
 # About Me-
 
-📚 Currently pursuing B.E - Computer Engineering with CGPA of 9.36.
+📚 Completed B.E - Computer Engineering with CGPA of 9.36.
 
 📧 You can reach me at: ankitwagh617@gmail.com.
 
@@ -34,6 +34,8 @@ and providing proper explanation for the framed question
 ## 💼 Intern at Cloudanix (Feb 2024 - July 2024, Remote)
 
 ### Software Engineer Intern
+
+Worked on various internal projects like - AWS config rule, cartography and Real-time monitoring for Github, Gitlab and Bitbucket.
 
 ## 💼 Engineer at Tata Consultancy Services Ltd (Nov 2024 - Currently, OnSite)
 
