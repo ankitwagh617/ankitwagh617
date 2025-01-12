@@ -39,7 +39,7 @@ Worked on various internal projects like - AWS config rule, cartography and Real
 
 ## 💼 Engineer at Tata Consultancy Services Ltd (Nov 2024 - Currently, OnSite)
 
-### Working in BFSI domain in Citi Bank Project
+### Working in Citi Bank Project under BFSI domian
 
 <br/>
 
